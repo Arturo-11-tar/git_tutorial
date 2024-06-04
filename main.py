@@ -4,4 +4,4 @@ import time
 print("Esperando 5 segundos...")
 time.sleep(5)
 
-print("Terminando la ejecucion...")
+print("Terminando la ejecucion")
